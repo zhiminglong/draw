@@ -36,8 +36,11 @@
             <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="7eWmDGaecQNST7Gm5Mlj-1" value="dsfuhasedfjkfhskjfhgsd" style="swimlane;startSize=0;" vertex="1" parent="1">
+        <mxCell id="7eWmDGaecQNST7Gm5Mlj-1" value="dsfuhasedfjkfhskjfhgsd" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="440" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AiRKQh6cdKSegyUpZU5A-1" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="430" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
